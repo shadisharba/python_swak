@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "python_swak"
+  site-url: "https://shadisharba.github.io/python_swak"
+  description: "Python Swiss Army knife (SWAK)"
+  repo-branch: main
+  repo-url: "https://github.com/shadisharba/python_swak"
