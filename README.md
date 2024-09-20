@@ -65,3 +65,15 @@ Fill me in please! Don’t forget code examples:
 ```
 
     2
+
+## How I started
+
+``` batch
+git clone <link_to_an_almost_empty_repo_with_one_commit>
+cd <repo_name>
+nbdev_new # does things including nbdev_install_hooks
+
+nbdev_prepare # Export, test, and clean notebooks, and render README if needed
+
+nbdev_preview # Preview the documentation locally
+```
